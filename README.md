@@ -76,4 +76,4 @@ https://github.com/willtobyte - huge thanks for him
 @timothy1498_boi - ported the emulator into luau
 
 # license
-See LICENCE
+see [LICENCE](https://github.com/TIMOTHY1498/RoLuaNES/blob/main/LICENSE) for licence information

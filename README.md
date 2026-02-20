@@ -1,11 +1,10 @@
 # ROLuaNes
 NES Emulator that ported on ROBLOX Lua based on https://github.com/willtobyte/NES 
 
-# api usage
 > PLEASE NOTE; this project uses Roblox EditableMesh API, specificly uses `EditableImage:WritePixelBuffer()` API. you will need verified by an ID to use this API
-
 the emulator src and loader was loaded inside `ReplicatedStorage.nes_emu` and the loader itself was located in  `ReplicatedStorage.nes_emu.main`.
 
+# api usage
 1. `Main.loadgame(binary_data: string)`
 loads the game data (mapper 0 games, binary string) into the emulator
 2.  `Main.sendKeycode(key_code: Enum.KeyCode)`

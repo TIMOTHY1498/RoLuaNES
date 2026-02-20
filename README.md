@@ -26,7 +26,7 @@ Enum.KeyCode.DPadRight - RIGHT
 
 # example usage
 
-```
+```luau
 --[[
 	// LuauNES_Emulator - NES Emulator written in Luau/Lua
 	

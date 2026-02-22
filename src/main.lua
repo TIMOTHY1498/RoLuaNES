@@ -71,7 +71,7 @@ module.getOneScreenDbg = function()
 end
 
 module.sendKeycode = function(keycode: Enum.KeyCode)
-	input.read(keycode)
+	input.poll(keycode)
 end
 
 return module

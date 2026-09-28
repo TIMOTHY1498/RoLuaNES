@@ -1,4 +1,7 @@
 # ROLuaNes
+> PLEASE NOTE; this project is discontinued, since there's better alternative project and bad codebase.
+> 
+
 NES Emulator that ported on ROBLOX Lua based on https://github.com/willtobyte/NES 
 
 # disclaimer
